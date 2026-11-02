@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.vibor {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+.vib1 {
+    background-color: #CDBCA5;
+    padding: 10px;
+    border-radius: 20px;
+}
+.vib1:active {
+    background-color: #3D3127;
+    color: white;
+}
+.flex {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.right {
+    background-color: #F3EBDF;
+    padding: 20px;
+    width: 20%;
+}
+.vid {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 30px;
+}
+.vid1 {
+    border: 1px solid black;
+padding: 10px;
+border-radius: 10px;
+}
+button {
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: none;
+    background-color: #3D3127;
+    color: white;
+}
+.container {
+    background-color: #F8F2E8;
+    padding: 40px;
+}
